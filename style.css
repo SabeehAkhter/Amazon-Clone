@@ -187,6 +187,7 @@ span{
     align-items: center;
     height: 35px;
     font-weight: 700;
+    padding-left: 10px;
 }
 
 .panel-options{
